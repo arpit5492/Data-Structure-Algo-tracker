@@ -10,3 +10,4 @@ def number(no):
     return no if no > 0 else 'negative number'
 new_list = [number(i) for i in n]
 print(new_list)
+
